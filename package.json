@@ -6,13 +6,10 @@
   "homepage": "https://harrowhive.github.io/website",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d website_code"
+    "deploy": "gh-pages -d website"
   },
   "author": "mo nik",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/harrowhive/website/issues"
-  },
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0"
