@@ -1,0 +1,25 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "hhfc website",
+  "main": "index.html",
+  "homepage": "https://harrowhive.github.io/website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy" "gh-pages -d website_code"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrowhive/website.git"
+  },
+  "author": "mo nik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrowhive/website/issues"
+  },
+  "homepage": "https://github.com/harrowhive/website#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1",
+    "node-sass": "^4.13.0"
+  }
+}
