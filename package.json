@@ -13,7 +13,6 @@
   "bugs": {
     "url": "https://github.com/harrowhive/website/issues"
   },
-  "homepage": "https://github.com/harrowhive/website#readme",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0"
