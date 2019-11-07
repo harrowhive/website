@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "hhfc website",
   "main": "index.html",
-  "homepage": "https://harrowhive.github.io/website",
+  "homepage": "https://github.com/harrowhive/website",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d website_code"
