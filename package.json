@@ -6,7 +6,7 @@
   "homepage": "https://harrowhive.github.io/website",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy" "gh-pages -d website_code"
+    "deploy": "gh-pages -d website_code"
   },
   "repository": {
     "type": "git",
